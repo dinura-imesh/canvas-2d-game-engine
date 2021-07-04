@@ -1,0 +1,15 @@
+{
+  "name": "html-game-engine",
+  "version": "1.0.0",
+  "description": "2D html canvas based game engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dinura Imesh",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
